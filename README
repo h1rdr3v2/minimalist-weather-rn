@@ -1,0 +1,10 @@
+# Introduction
+
+<p>An app for checking weather - built under practice</p>
+<p>I used react native cli to build this and you can do same too</p>
+
+## Installation
+
+<p>Set up your emulators, Xcode and Android Studio</p>
+<p>Run npm install and npm run start to set up metro</p>
+<p>Use either npm run ios or npm run android to run either for android or ios</p>
