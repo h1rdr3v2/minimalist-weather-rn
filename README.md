@@ -28,7 +28,7 @@ A clean and minimalist React Native weather application showcasing forecast info
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/minimalist-weather-rn.git
+git clone https://github.com/h1dr3v2/minimalist-weather-rn.git
 cd minimalist-weather-rn
 ```
 
